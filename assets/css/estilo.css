@@ -59,10 +59,10 @@ header h1{
   padding: 0 2px;
 }
 
-#navegacao input{
+/* #navegacao input{
   font-family: 'Indie Flower', 'cursive';
   border: 2px solid black;
-  padding: 5px 10px 5px 25px; 
+  padding: 5px 10px 5px 25px;  */
 }
 
 #itens{
@@ -90,8 +90,8 @@ header h1{
 }
 
 .produto img{
-  width: 60vw;
-  height: 60vw;
+  width: 40vw;
+  height: 40vw;
   max-width: 200px;
   max-height: 200px;
 }
